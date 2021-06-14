@@ -7,4 +7,8 @@
 * [ToDo](https://BlueCloud119.github.io/programowanie_interfejsow_webowych_lab/Lab3_248878/index.html)
 * [Lab4]
 * [Wyszukiwarka](https://BlueCloud119.github.io/programowanie_interfejsow_webowych_lab/Lab4_248878/index.html)
+* [Lab5]
+* [Wyszukiwarka v2]
+* [lab6]
+* [Wyszukiwarka v3](https://bluecloud119.github.io/programowanie_interfejsow_webowych_lab_6/)
 
